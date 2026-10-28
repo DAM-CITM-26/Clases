@@ -1,0 +1,10 @@
+[
+  { "id": 1, "nombre": "Cascada del Molí", "dificultad": "Fácil", "duracion": "2h 15min", "circular": true },
+  { "id": 2, "nombre": "Pic de l'Àliga", "dificultad": "Difícil", "duracion": "5h 30min", "circular": false },
+  { "id": 3, "nombre": "Camí de Ronda", "dificultad": "Media", "duracion": "3h", "circular": false },
+  { "id": 4, "nombre": "Bosc de les Fades", "dificultad": "Fácil", "duracion": "1h 45min", "circular": true },
+  { "id": 5, "nombre": "Collada Verda", "dificultad": "Media", "duracion": "4h", "circular": false },
+  { "id": 6, "nombre": "Torrent Fosc", "dificultad": "Difícil", "duracion": "6h", "circular": true },
+  { "id": 7, "nombre": "Mirador del Riu", "dificultad": "Fácil", "duracion": "1h 30min", "circular": false },
+  { "id": 8, "nombre": "Serra Alta", "dificultad": "Media", "duracion": "3h 45min", "circular": true }
+]
