@@ -1,0 +1,76 @@
+.fichaJuego {
+  padding: 16px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--code-bg);
+}
+
+.fichaJuego h3 {
+  margin: 0 0 8px;
+  color: var(--text-h);
+}
+
+.fichaJuego p + p {
+  margin-top: 4px;
+  color: var(--accent);
+}
+
+.editorial {
+  font-size: 12px;
+  margin-top: 2px;
+}
+
+.btnAnadir {
+  margin-top: 10px;
+  font-family: var(--font-mono, monospace);
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 5px;
+  border: 1px solid var(--accent);
+  background: transparent;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.btnAnadir.isOn {
+  border-color: var(--good, #89d185);
+  color: var(--good, #89d185);
+  cursor: default;
+}
+
+.vistas {
+  font-size: 12px;
+  color: var(--faint, #888);
+  margin-top: 6px;
+}
+
+.btnFavorito {
+  margin-top: 6px;
+  margin-left: 8px;
+  font-family: var(--font-mono, monospace);
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 5px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg);
+  cursor: pointer;
+}
+
+.valoracion {
+  margin: 6px 0 0;
+  color: var(--accent);
+  letter-spacing: 1px;
+}
+
+.btnRecomendar {
+  margin-top: 6px;
+  font-family: var(--font-mono, monospace);
+  font-size: 13px;
+  padding: 6px 14px;
+  border-radius: 5px;
+  border: 1px solid var(--line);
+  background: transparent;
+  color: var(--fg);
+  cursor: pointer;
+}

@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nombre": "Faros de niebla", "autoria": "Nuria Valls", "jugadores": "2-4", "duracion": 45, "color": "#4fc1ff", "editorial": { "nombre": "Estudio Nórdico", "pais": "Noruega" }, "valoracion": 5 },
+  { "id": 2, "nombre": "Huerto vertical", "autoria": "Pau Ferrer", "jugadores": "1-5", "duracion": 30, "color": "#ff6b6b", "valoracion": 3 },
+  { "id": 3, "nombre": "Volcán dormido", "autoria": "Irene Soler", "jugadores": "3-6", "duracion": 20, "color": "#4cd964" },
+  { "id": 4, "nombre": "Biblioteca sumergida", "autoria": "Nuria Valls", "jugadores": "2", "duracion": 60, "valoracion": 4 },
+  { "id": 5, "nombre": "Noche de enigmas", "jugadores": "3-8", "duracion": 90, "color": "#ffcc00" }
+]
